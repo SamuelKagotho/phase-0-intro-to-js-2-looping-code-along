@@ -13,3 +13,5 @@ function writeCards( name, item ) {
     }
     console.log( startNum );
   }
+
+  console.log(writeCards(me,you))
